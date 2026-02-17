@@ -33,7 +33,7 @@ The objective was to understand customer purchasing behavior, identify high-reve
 ![Age Group vs Amount](https://github.com/Anjalimishra20/Python-Diwali-Sales-Analysis/blob/main/Python-Diwali%20Sales-Analysis/Screenshots/agegroup_amount.png)
 
 ### 3️⃣ Top States by Sales Amount
-![State vs Amount](screenshots/state_amount.png)
+![State vs Amount](https://github.com/Anjalimishra20/Python-Diwali-Sales-Analysis/blob/main/Python-Diwali%20Sales-Analysis/Screenshots/state_amount.png)
 
 ### 4️⃣ Top Product Categories by Revenue
 ![Product Category vs Amount](screenshots/product_category_amount.png)
