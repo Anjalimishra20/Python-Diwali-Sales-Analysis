@@ -1,4 +1,4 @@
-# 🪔 Diwali Sales Data Analysis using Python
+#  Diwali Sales Data Analysis using Python
 
 ## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on Diwali sales data using Python. 
