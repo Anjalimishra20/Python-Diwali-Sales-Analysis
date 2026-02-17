@@ -27,7 +27,7 @@ The objective was to understand customer purchasing behavior, identify high-reve
 ## 📷 Sample Visualizations
 
 ### 1️⃣ Gender vs Purchase Amount
-![Gender vs Amount](https://github.com/Anjalimishra20/Python-Diwali-Sales-Analysis/blob/main/Python-Diwali%20Sales-Analysis/Screenshots/gender_amount.png)
+![Gender vs Amount]("https://github.com/Anjalimishra20/Python-Diwali-Sales-Analysis/blob/main/Python-Diwali%20Sales-Analysis/Screenshots/gender_amount.png"width="500")
 
 ### 2️⃣ Age Group vs Purchase Amount
 ![Age Group vs Amount](https://github.com/Anjalimishra20/Python-Diwali-Sales-Analysis/blob/main/Python-Diwali%20Sales-Analysis/Screenshots/agegroup_amount.png)
